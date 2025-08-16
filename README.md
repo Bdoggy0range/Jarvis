@@ -137,6 +137,7 @@ A compact floating GUI shows current status and feedback in real time:
 * This is a prototype/demo; it's not secure or production-ready.
 * Extend it with your own personalities or integrate APIs for more functionality!
 * OBS is currently broken will fix
+* Can be ran simply with `jarvis start` if the batch file path inside the code is changed to the path of main.py and added to enviornment variables
 
 ---
 
@@ -151,5 +152,3 @@ Created by BdoggyOrange – Inspired by Marvel's AI characters
 This project is open-source. Feel free to modify and extend.
 
 ---
-
-Let me know if you want this in Markdown file format (`README.md`) or want to add installation scripts!
